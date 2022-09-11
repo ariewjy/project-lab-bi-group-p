@@ -101,7 +101,7 @@ Prototype lanjutan lebih mengarah ke aspek riil dashboard berupa chart dan diagr
 ![Hi-fi](img/hi-fi.png)
 
 ## MVP Demo
-Pada dasarnya dashboard ini terdiri atas tiga komponen utama, yakni Peta, FIlter dan Bar Chart. 
+Pada dasarnya dashboard ini terdiri atas tiga komponen utama, yakni Peta, FIlter dan Bar Chart. [Link Dashboard](https://public.tableau.com/app/profile/haniefutama/viz/JabarWaspadaStunting/StuntingDashboard)
 
 ![Default Dashboard](img/dashboard-peta-all.png)
 
